@@ -1,8 +1,8 @@
 package dev
 
 import (
-	"github.com/go-ble/ble"
-	"github.com/go-ble/ble/darwin"
+	"github.com/BBleae/ble"
+	"github.com/BBleae/ble/darwin"
 )
 
 // DefaultDevice ...

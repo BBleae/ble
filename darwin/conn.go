@@ -6,8 +6,8 @@ import (
 	"log"
 	"sync"
 
+	"github.com/BBleae/ble"
 	"github.com/JuulLabs-OSS/cbgo"
-	"github.com/go-ble/ble"
 )
 
 // newGenConn creates a new generic (role-less) connection.  This should not be

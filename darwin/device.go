@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"time"
 
+	"github.com/BBleae/ble"
 	"github.com/JuulLabs-OSS/cbgo"
-	"github.com/go-ble/ble"
 
 	"sync"
 )

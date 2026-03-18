@@ -1,9 +1,9 @@
 package main
 
 import (
-	"github.com/go-ble/ble"
-	"github.com/go-ble/ble/linux"
-	"github.com/go-ble/ble/linux/hci/cmd"
+	"github.com/BBleae/ble"
+	"github.com/BBleae/ble/linux"
+	"github.com/BBleae/ble/linux/hci/cmd"
 	"github.com/pkg/errors"
 )
 
